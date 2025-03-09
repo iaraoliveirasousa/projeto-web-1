@@ -6,7 +6,7 @@ Nome: <Iara>
 Matricula: <888235>
 
 ## Tela de inspeção com navegador
-![Navegador](Network.jpg)
+![alt text](Network.jpg)
 
 ## Tela de projeto no Replit
-![Replit](<imagem replit.png>)
+![alt text](<imagem replit.png>)
