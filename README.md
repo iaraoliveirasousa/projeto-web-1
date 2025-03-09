@@ -2,11 +2,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: <Iara> 
+Matricula: <888235>
 
 ## Tela de inspeção com navegador
-
+![Navegador](Network.jpg)
 
 ## Tela de projeto no Replit
-
+![Replit](<imagem replit.png>)
